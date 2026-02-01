@@ -1,4 +1,4 @@
-# Star Wars API Adapter  
+# Star Wars API   
 **Documentación del Contrato**
 
 ---
