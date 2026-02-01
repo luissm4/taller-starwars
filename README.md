@@ -173,10 +173,10 @@ TIMEOUT_SECONDS=15
 ---
 
 ## Autor
-Desarrollado por: **[Tu Nombre Aquí]**  
+Desarrollado por: **Luis Muñoz Gaviria**  
 Fecha: **Enero 2026**
 
 ---
 
 ## Licencia
-Proyecto de uso **educativo**.
+Proyecto **educativo**.
